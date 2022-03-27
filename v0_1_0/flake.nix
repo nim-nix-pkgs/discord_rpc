@@ -11,6 +11,7 @@
   inputs.src-discord_rpc-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-discord_rpc-v0_1_0.owner = "SolitudeSF";
   inputs.src-discord_rpc-v0_1_0.repo  = "discord_rpc";
+  inputs.src-discord_rpc-v0_1_0.dir   = "";
   inputs.src-discord_rpc-v0_1_0.type  = "github";
   
   inputs."uuids".owner = "nim-nix-pkgs";
