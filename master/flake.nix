@@ -11,7 +11,6 @@
   inputs.src-discord_rpc-master.ref   = "refs/heads/master";
   inputs.src-discord_rpc-master.owner = "SolitudeSF";
   inputs.src-discord_rpc-master.repo  = "discord_rpc";
-  inputs.src-discord_rpc-master.dir   = "";
   inputs.src-discord_rpc-master.type  = "github";
   
   inputs."uuids".owner = "nim-nix-pkgs";
